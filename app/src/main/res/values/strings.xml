@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Submission 1 - Story App</string>
+
+    <string name="login">Login</string>
+    <string name="title_register_page">Complete your data below</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">First, Fill your Email and Password ya</string>
+    <string name="title_login_page">Want to Login?</string>
+    <string name="name">Name</string>
+    <string name="copyright">© 2022 Dzul</string>
+    <string name="greeting">Hi %1$s,</string>
+    <string name="logout">Logout</string>
+    <string name="view_maps">View Maps</string>
+    <string name="register">Register</string>
+    <string name="have_not_account">Have not Account?</string>
+    <string name="upload">Upload</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="description">Description :</string>
+    <string name="username">Username</string>
+    <string name="hello">Hi you</string>
+    <string name="story_page">Story</string>
+    <string name="add_story_page">Add Story</string>
+    <string name="email_password_wrong">Sorry, Your Email or Password must be wrong</string>
+    <string name="not_register">Sorry, You are not register yet</string>
+    <string name="fill_email">Enter your email</string>
+    <string name="fill_password">Enter your password</string>
+    <string name="password_less">Password less than 6</string>
+
+    <string name="fail_data">Fail get a data</string>
+
+    <string name="not_permission">Have not permission</string>
+    <string name="fail_take_photo">Fail to take a photo</string>
+    <string name="fail_camera">Fail to launch camera</string>
+
+    <string name="email_already">Email has been registered</string>
+    <string name="register_success">Register success!</string>
+    <string name="fill_name">Enter your name</string>
+    <string name="same_password">Enter the same password</string>
+    <string name="fill_description">What do you want to tell?</string>
+
+    <string name="retrofit_fail">Fail to instance retrofit</string>
+    <string name="please_enter_pict">Please, enter a picture</string>
+    <string name="choose_pict">Choose a picture</string>
+
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="start_running">Start Running</string>
+    <string name="stop_running">Stop Running</string>
+    <string name="start_point">Your Location</string>
+
+    <string name="retry">Try again</string>
+    <string name="languages">Languages</string>
+    <string name="location_permission_need">Sorry, Location Permissions is needed</string>
+    <string name="resource_not_found">Resource not Found</string>
+    <string name="cant_find_style">\"Can\'t find style. Error: \"</string>
+    <string name="style_parsing_failed">Style parsing failed.</string>
+    <string name="failed_set_marker">failed to set Marker from API</string>
+    <string name="photo">Photo</string>
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission 1 - Story App</string>
+
+    <string name="login">Masuk</string>
+    <string name="title_register_page">Lengkapi data dirimu di bawah ini</string>
+    <string name="email">Email</string>
+    <string name="password">Kata sandi</string>
+    <string name="message_login_page">Isi Email dan Kata sandi dulu ya</string>
+    <string name="title_login_page">Mau masuk?</string>
+    <string name="name">Nama</string>
+    <string name="copyright">© 2022 Dzul</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="view_maps">Lihat Maps</string>
+    <string name="register">Daftar</string>
+    <string name="have_not_account">Belum punya Akun?</string>
+    <string name="upload">Unggah</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="description">Deskripsi :</string>
+    <string name="username">Nama User</string>
+    <string name="hello">Halo kamu</string>
+    <string name="story_page">Cerita</string>
+    <string name="add_story_page">Tambah Cerita</string>
+    <string name="email_password_wrong">Maaf Email atau password yang anda masukkan salah</string>
+    <string name="not_register">Maaf Anda Belum terdaftar sebagai user</string>
+    <string name="fill_email">Masukkan email</string>
+    <string name="fill_password">Masukkan Password</string>
+    <string name="password_less">password kurang dari 6 karakter</string>
+
+    <string name="fail_data">Tidak berhasil memuat data</string>
+
+    <string name="not_permission">Tidak mendapatkan permission</string>
+    <string name="fail_take_photo">Gagal Mengambil gambar</string>
+    <string name="fail_camera">Gagal memunculkan kamera</string>
+
+    <string name="email_already">Email sudah pernah dipakai</string>
+    <string name="register_success">Pendaftaran berhasil!</string>
+    <string name="fill_name">Masukkan nama</string>
+    <string name="same_password">Masukkan Password yang sama</string>
+    <string name="fill_description">Apa yang kamu ingin ceritakan?</string>
+
+    <string name="retrofit_fail">Gagal instance Retrofit</string>
+    <string name="please_enter_pict">Silakan masukkan gambar terlebih dahulu</string>
+    <string name="choose_pict">Pilih Gambar</string>
+
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="start_running">Mulai Berlari</string>
+    <string name="stop_running">Berhenti berlari</string>
+    <string name="start_point">Lokasimu</string>
+
+    <string name="retry">Coba lagi</string>
+    <string name="languages">Bahasa</string>
+    <string name="location_permission_need">Maaf, Izin lokasi dibutuhkan</string>
+    <string name="resource_not_found">Sumber tidak ditemukan</string>
+    <string name="cant_find_style">\"Tidak menemukan Style. Error: \"</string>
+    <string name="style_parsing_failed">Memparsing Style gagal.</string>
+    <string name="failed_set_marker">Gagal set Marker dari API</string>
+    <string name="photo">Foto</string>
+</resources>
